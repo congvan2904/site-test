@@ -25,7 +25,7 @@ SECRET_KEY = 'ud07g1-vpqi#1x^hikbbx1p#5z$r6bxg#f#xw&k$&k(mjt779v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [congvan2904.pythonanywhere.com]
 
 
 # Application definition
